@@ -16,4 +16,4 @@ mongodb_atlas_database_username = ""
 
 mongodb_atlas_database_user_password = ""
 
-environment = ""
+environment = "Development"
