@@ -1,2 +1,9 @@
 # MongoDB-CICD-Deploy
-DevOps friendly deployment of MongoDB Atlas clusters including serverless
+Double check the IP address. This does not include private endpoint
+
+## Pre-configured
+* Organization created
+* Project created
+* API Key created with IP whitelisting
+* Database username and password created
+

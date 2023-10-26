@@ -79,3 +79,8 @@ variable "mongodb_atlas_database_user_password" {
 variable "mongo_db_major_version"{
     description = "the MongoDB Version"
 }
+
+# # Current User
+# variable "current_user"{
+#     description = "Name or identifier of the user"
+# }
